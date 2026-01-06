@@ -1,2 +1,2 @@
-# gst-licenses
+# app-licenses
 gst-licenses for kill switch
